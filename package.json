@@ -1,0 +1,19 @@
+{
+  "name": "AntimicroX-website",
+  "version": "0.0.1",
+  "description": "A graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.",
+  "main": "index.js",
+  "authors": {
+    "name": "Aria Moradi",
+    "email": "aria.moradi007@gmail.com"
+  },
+  "repository": "https://github.com/AntiMicroX/antimicrox.github.io",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
